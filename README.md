@@ -9,7 +9,6 @@ Rain is a simple and clean Jekyll theme with focus on content. It's a fork of [T
 - Responsive design
 - Syntax highlighting
 - Markdown and HTML text formatting
-- Pagination of posts
 - Related articles section
 - Links to social media
 
@@ -61,12 +60,10 @@ sass:
 # Gems
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
 
 # Related posts settings
 related_posts_section:

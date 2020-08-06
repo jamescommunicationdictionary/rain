@@ -12,7 +12,6 @@ Rain is a simple and clean [Jekyll](https://jekyllrb.com/) theme with focus on c
 - Responsive design
 - Syntax highlighting, with the help of Pygments
 - Markdown and HTML text formatting
-- Pagination of posts
 - Social media links with icons
 - Related posts
 
